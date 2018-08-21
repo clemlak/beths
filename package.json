@@ -1,0 +1,34 @@
+{
+  "name": "beths",
+  "author": "clemlak",
+  "version": "1.0.0",
+  "description": "Place bets with Ether!",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smart-contracts",
+    "solidity",
+    "ethereum",
+    "blockchain",
+    "bets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clemlak/beths.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clemlak/beths/issues"
+  },
+  "homepage": "https://github.com/clemlak/beths",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "openzeppelin-solidity": "^1.10.0",
+    "truffle-hdwallet-provider": "0.0.5"
+  }
+}
